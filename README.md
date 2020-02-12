@@ -18,4 +18,4 @@ Used in the paper [Adaptive Temporal Difference Learning with Linear Function Ap
 
 ## Acknowlegement
 
-The dependency 'multiagent (0.0.1)' used in this repo is a modified version of [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs/blob/master/README.md#multi-agent-particle-environment)
+The dependency 'multiagent' used in this repo is a modified version of [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs/blob/master/README.md#multi-agent-particle-environment)
