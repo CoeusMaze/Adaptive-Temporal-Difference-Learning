@@ -2,7 +2,7 @@
 # Adaptive Temporal Difference Learning (AdaTD)
 
 Implemented AdaTD and compared it with other optimization methods in temporal difference learning.
-Used in the paper [Adaptive Temporal Difference Learning with Linear Function Approximation](link).
+Used in the paper [Adaptive Temporal Difference Learning with Linear Function Approximation](https://arxiv.org/pdf/2002.08537.pdf).
 
 ## Getting started:
 
